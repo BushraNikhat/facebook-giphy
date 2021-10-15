@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/facebook-giphy/static/css/main.8466cabc.chunk.css",
+    "main.js": "/facebook-giphy/static/js/main.ce231b5b.chunk.js",
+    "main.js.map": "/facebook-giphy/static/js/main.ce231b5b.chunk.js.map",
+    "runtime-main.js": "/facebook-giphy/static/js/runtime-main.c478f1e7.js",
+    "runtime-main.js.map": "/facebook-giphy/static/js/runtime-main.c478f1e7.js.map",
+    "static/css/2.f2512455.chunk.css": "/facebook-giphy/static/css/2.f2512455.chunk.css",
+    "static/js/2.47fdd3b5.chunk.js": "/facebook-giphy/static/js/2.47fdd3b5.chunk.js",
+    "static/js/2.47fdd3b5.chunk.js.map": "/facebook-giphy/static/js/2.47fdd3b5.chunk.js.map",
+    "index.html": "/facebook-giphy/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/facebook-giphy/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.8466cabc.chunk.css.map": "/facebook-giphy/static/css/main.8466cabc.chunk.css.map",
+    "static/js/2.47fdd3b5.chunk.js.LICENSE.txt": "/facebook-giphy/static/js/2.47fdd3b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c478f1e7.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.47fdd3b5.chunk.js",
+    "static/css/main.8466cabc.chunk.css",
+    "static/js/main.ce231b5b.chunk.js"
+  ]
+}
